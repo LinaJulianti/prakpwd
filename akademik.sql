@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Oct 17, 2021 at 08:48 AM
+-- Generation Time: Oct 17, 2021 at 09:22 AM
 -- Server version: 10.4.20-MariaDB
 -- PHP Version: 7.3.29
 
@@ -44,10 +44,7 @@ INSERT INTO `mahasiswa` (`nim`, `nama`, `jkel`, `alamat`, `tgllhr`, `prodi`) VAL
 ('MHS01', 'Siti Aminah', 'P', 'SOLO', '1995-10-01', NULL),
 ('MHS02', 'Rita', 'P', 'SOLO', '1999-01-01', NULL),
 ('MHS03', 'Amirudin', 'L', 'SEMARANG', '1998-08-11', NULL),
-('MHS04', 'Siti Maryam', 'P', 'JAKARTA', '1995-04-15', NULL),
-('MHS05', 'Lina Julianti', 'P', 'Sumbawa', '2000-07-05', 'Teknik Informatika'),
-('MHS06', 'Alby', 'L', 'Mataram', '2001-02-12', 'Teknik Elektro'),
-('MHS07', 'Fatimah', 'P', 'Bali', '1999-06-18', 'Farmasi');
+('MHS04', 'Siti Maryam', 'P', 'JAKARTA', '1995-04-15', NULL);
 
 --
 -- Indexes for dumped tables
